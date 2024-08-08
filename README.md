@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shivam Vishwakarma</h1>
-<h3 align="center">A passionate DevOps/Cloud Engineer from India</h3>
-
-
 <p align="left"> <img src="https://github.com/techwithshivam16/My-Important-Pics/blob/main/Linkedin%20Banner%20(2).png" alt="devshivops" /> </p>
 
 
